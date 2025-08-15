@@ -18,14 +18,16 @@ Here are some ideas to get you started:
 ## 📊 Mis estadísticas
 ![Orlando GitHub stats](https://github-readme-stats.vercel.app/api?username=orlando-zh&show_icons=true&count_private=true&theme=corporate)
 
+
 ## Tecnologías Frontend
-![Vue.js](https://img.shields.io/badge/-?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/-?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/-?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-?style=for-the-badge&logo=typescript&logoColor=007ACC)
-![TailwindCSS](https://img.shields.io/badge/-?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Vue.js](https://img.shields.io/badge/-?label=&logo=vue.js&style=for-the-badge)
+![React](https://img.shields.io/badge/-?label=&logo=react&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-?label=&logo=html5&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-?label=&logo=css3&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-?label=&logo=javascript&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-?label=&logo=typescript&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-?label=&logo=tailwind-css&style=for-the-badge)
+
 
 
 

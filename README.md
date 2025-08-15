@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 
 ## 📊 Mis estadísticas
-![Stats](https://github-readme-stats.vercel.app/api?username=orlandozuniga&show_icons=true&theme=corporate)
+![Stats](https://github-readme-stats.vercel.app/api?username=orlando-zh&show_icons=true&theme=corporate)

@@ -20,14 +20,13 @@ Here are some ideas to get you started:
 
 
 ## Tecnologías Frontend
-![Vue.js](https://img.shields.io/badge/-?label=&logo=vue.js&style=for-the-badge)
-![React](https://img.shields.io/badge/-?label=&logo=react&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-?label=&logo=html5&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-?label=&logo=css3&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-?label=&logo=javascript&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-?label=&logo=typescript&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-?label=&logo=tailwind-css&style=for-the-badge)
-
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/vue.svg" alt="Vue" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" alt="React" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg" alt="CSS3" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" alt="JS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/typescript.svg" alt="TS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tailwindcss.svg" alt="Tailwind" width="40" height="40"/>
 
 
 

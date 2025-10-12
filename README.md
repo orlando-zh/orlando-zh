@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📊 Mis estadísticas
-![Orlando GitHub stats](https://github-readme-stats.vercel.app/api?username=orlando-zh&show_icons=true&count_private=true&theme=corporate)
-
 
 ## Tecnologías Frontend
 ![Vue](https://img.shields.io/badge/-Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
